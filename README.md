@@ -1,2 +1,21 @@
-# DASHBOARDRD-FOR-PURCHSE-ORDER
-A Purchase Order (PO) Dashboard provides a centralized view of all purchase order activities, helping businesses track, manage, and analyze procurement processes efficiently. The dashboard includes various key metrics, visualizations, and status indicators to optimize purchasing decisions.
+# 📊 Purchase Order Dashboard
+
+A **Dash-based interactive dashboard** that provides insights into **purchase orders (POs), vendor distributions, rate variations, and purchase groups** using **Plotly visualizations**.
+
+## 🚀 Features
+- **🔐 Secure Login:** User authentication before accessing the dashboard.
+- **📊 Total PO Values:** View total PO values over time.
+- **🛒 Vendor Distribution:** Analyze vendor performance using **bar charts**.
+- **🏆 Top Vendors by Category:** Identify the highest-performing vendors across categories.
+- **📦 Purchase Groups Analysis:** View purchase group distribution.
+- **📈 Rate Variations:** Track vendor rate fluctuations over time.
+- **📅 Date Range Filter:** Select a date range for refined analysis.
+- **🏢 Company Filter:** Analyze data specific to selected companies.
+- **🛍️ Item Filter:** Select and analyze purchase orders by item.
+
+## 🛠️ Installation
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/yourusername/purchase-order-dashboard.git
+cd purchase-order-dashboard
