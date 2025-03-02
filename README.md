@@ -16,6 +16,17 @@ A **Dash-based interactive dashboard** that provides insights into **purchase or
 ## 🛠️ Installation
 
 ### 1️⃣ Clone the repository
-```bash
+
 git clone https://github.com/yourusername/purchase-order-dashboard.git
 cd purchase-order-dashboard
+
+2️⃣ Install Dependencies
+Make sure you have Python installed. Install the required libraries using:
+
+pip install pandas dash plotly openpyxl
+
+3️⃣ Run the Application
+
+python app.py
+
+Then, open your browser and go to http://localhost:8080.
